@@ -1,0 +1,11 @@
+{
+  "name": "mini-storybook-sample-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/toshyss/mini-storybook-sample-app.git",
+  "author": "toshyss <toshy.ss@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue-cli": "^2.9.6"
+  }
+}
